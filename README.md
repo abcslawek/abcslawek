@@ -1,7 +1,7 @@
 ## 🙋🏻‍♂️ About me
 I am an automation and robotics engineer. I work as a geodesy measurement instruments sales representative. I want to become a programmer.
 
-I like playing the piano, boulder climbing, playing pool 🎹🏔🎱
+I like to play the piano, boulder climbing and play pool 🎹🏔🎱
 
 Still learning and discovering new stuff!
 
