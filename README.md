@@ -9,10 +9,11 @@ Still learning and discovering new stuff!
 
 ☕ Java
 🔷 C/C++
+🐬 SQL
 
 ## 👨🏻‍🔬 Projects
 
-♟ Recently i made a chess game written in Java.
+♟ Recently i made a chess game written in Java and SQL.
 
 ## 📘 **Isaiah 40:31**
 
