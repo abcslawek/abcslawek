@@ -10,6 +10,8 @@ Still learning and discovering new stuff!
 ☕ Java
 🔷 C/C++
 🐬 SQL
+🟨 JavaScript
+🟧🟦 HTML & CSS
 
 ## 👨🏻‍🔬 Projects
 
