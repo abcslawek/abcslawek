@@ -15,7 +15,7 @@ Still learning and discovering new stuff!
 
 ## 👨🏻‍🔬 Projects
 
-♟ Recently i made a chess game written in Java and SQL.
+🦝 Recently i made a platform game written in Java.
 
 ## 📘 **Isaiah 40:31**
 
