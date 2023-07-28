@@ -7,7 +7,7 @@ Still learning and discovering new stuff!
 
 ## 🔧 Technologies
 
-☕ Java
+☕ Java / Spring Boot
 🔷 C/C++
 🐬 SQL
 🟨 JavaScript
